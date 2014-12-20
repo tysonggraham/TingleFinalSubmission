@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2014-12-19T10:08:40</date>
+  <millis>1419008920346</millis>
+  <sequence>0</sequence>
+  <logger>myLaunchy</logger>
+  <level>SEVERE</level>
+  <class>tingle.gui.Tingle</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>This is not cool brah!</message>
+</record>
+<record>
+  <date>2014-12-19T10:08:40</date>
+  <millis>1419008920455</millis>
+  <sequence>1</sequence>
+  <logger>myLaunchy</logger>
+  <level>WARNING</level>
+  <class>tingle.gui.Tingle</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>whoa whoa calm down my nookah!</message>
+</record>
+</log>
